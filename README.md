@@ -1,5 +1,5 @@
 
-**Student Name:** Denz'l Chapman
+Denz'l Chapman
 
 **Dataset:** Industry Market Cap Dataset
 https://www.kaggle.com/datasets/zibranzarif/industry-market-cap-analysis-dataset

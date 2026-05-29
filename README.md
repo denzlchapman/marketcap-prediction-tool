@@ -18,8 +18,6 @@ https://www.kaggle.com/datasets/zibranzarif/industry-market-cap-analysis-dataset
 
 ### Project Highlights
 
-[Write 2-3 bullet points about interesting findings or challenges you overcame. This helps employers understand your thought process!]
-
 - Seeing the difference in model performance during regression when including PE&PS ratio given the TARGET is Marketcap(Data Leakage).
 - My original binning strategy wouldnt work because the dataset did not have enough data points to represent both MicroCap and MegaCap classifications.(less than 4% for each)  
 - Precisely predicting a company's market cap value is extremely difficult because there are so many other influences than just the fundamentals alone. 
